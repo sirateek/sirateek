@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Badge
+[![dsc](https://img.shields.io/badge/-Developer%20Student%20Club%20Core%20Team-DB4437?style=flat&logo=google&logoColor=FFFFFF)][dsc]
+
 ## Tech Stack
 
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=FFFFFF">
@@ -42,6 +46,8 @@ Here are some ideas to get you started:
 
 ## Checkout my tutorial blog on [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
 ![Siratee K.'s Medium Blog](https://github-cards-external-blogs-ten.vercel.app/getMediumBlogs?username=sirateek&type=horizontal)
+
+[dsc]: https://dsc.community.dev/kasetsart-university/
 
 [website]: https://sirateek.dev
 [medium]: https://medium.com/@sirateek
