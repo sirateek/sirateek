@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Badge
-[![dsc](https://img.shields.io/badge/-Developer%20Student%20Club%20Core%20Team-DB4437?style=flat&logo=google&logoColor=FFFFFF)][dsc]
+[![dsc](https://img.shields.io/badge/-Developers%20Student%20Club%20Lead-4285f4?style=for-the-badge&logo=google&logoColor=white&labelColor=484a52)][dsc]
 
 ## Tech Stack
 
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google%20cloud&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Dialogflow-FF9800?style=flat&logo=dialogflow&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Swift-FC3D39?style=flat&logo=swift&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Python-646464?style=flat&logo=python&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
