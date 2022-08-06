@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Tech Stack
 
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Go-29BEB0?style=flat&logo=go&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-LINE%20API-00b900?style=flat&logo=line&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google%20cloud&logoColor=FFFFFF">
