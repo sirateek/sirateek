@@ -37,11 +37,7 @@ Here are some ideas to get you started:
 [![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
 [![Dev.to](http://img.shields.io/badge/-dev.to-000000?style=flat&logo=dev.to&logoColor=white)][devto]
 
-## Checkout my tutorial blog on [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
-![Siratee K.'s Medium Blog](https://github-cards-external-blogs-ten.vercel.app/getMediumBlogs?username=sirateek&type=horizontal)
-
 [dsc]: https://dsc.community.dev/kasetsart-university/
-
 [devto]: https://dev.to/sirateek
 [website]: https://sirateek.dev
 [medium]: https://medium.com/@sirateek
