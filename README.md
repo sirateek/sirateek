@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Badge
-[![dsc](https://img.shields.io/badge/-Google%20Developers%20Student%20Club%20Lead-4285f4?style=for-the-badge&logo=google&logoColor=white&labelColor=484a52)][dsc]
+[![dsc](https://img.shields.io/badge/-Google%20Developers%20Student%20Club%20Lead%202021-4285f4?style=for-the-badge&logo=google&logoColor=white&labelColor=484a52)][dsc]
 
 ## Tech Stack
 
